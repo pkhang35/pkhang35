@@ -46,3 +46,27 @@ I enjoy turning UI designs into clean and reusable interfaces.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+---
+
+## 📂 Featured Projects
+
+### 🧠 DevQuiz
+
+A quiz web application for practicing and testing knowledge of frontend technologies.
+
+**Tech:** React · JavaScript · Tailwind CSS · React Router · JSON Server
+
+🔗 [Live Demo](YOUR_DEVQUIZ_DEMO_LINK)  
+💻 [Source Code](YOUR_DEVQUIZ_GITHUB_LINK)
+
+---
+
+### 💼 Personal Portfolio
+
+A responsive personal portfolio showcasing my skills, projects, experience, and education.
+
+**Tech:** React · JavaScript · Tailwind CSS · React Router · Lucide React
+
+🔗 [Live Demo](YOUR_PORTFOLIO_LINK)  
+💻 [Source Code](YOUR_PORTFOLIO_GITHUB_LINK)
+
