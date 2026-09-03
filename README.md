@@ -79,18 +79,6 @@ A responsive personal portfolio showcasing my skills, projects, experience, and 
 🔗 [Live Demo](https://portfolio-pham-tuan-khang.vercel.app/)  
 💻 [Source Code](https://github.com/pkhang35/portfolioCV)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pkhang35&show_icons=true&hide_border=true&rank_icon=github" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkhang35&layout=compact&hide_border=true" 
-    height="170"
-  />
-</p>
 
 ---
 
