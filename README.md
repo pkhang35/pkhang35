@@ -70,6 +70,19 @@ A job recruitment website that allows users to search for IT jobs, explore compa
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pkhang35&show_icons=true&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkhang35&layout=compact&hide_border=true" 
+    height="170"
+  />
+</p>
+
 ### 💼 Personal Portfolio
 
 A responsive personal portfolio showcasing my skills, projects, experience, and education.
