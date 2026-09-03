@@ -70,6 +70,15 @@ A job recruitment website that allows users to search for IT jobs, explore compa
 
 ---
 
+### 💼 Personal Portfolio
+
+A responsive personal portfolio showcasing my skills, projects, experience, and education.
+
+**Tech:** React · JavaScript · Tailwind CSS · React Router · Lucide React
+
+🔗 [Live Demo](https://portfolio-pham-tuan-khang.vercel.app/)  
+💻 [Source Code](https://github.com/pkhang35/portfolioCV)
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -83,12 +92,21 @@ A job recruitment website that allows users to search for IT jobs, explore compa
   />
 </p>
 
-### 💼 Personal Portfolio
+---
 
-A responsive personal portfolio showcasing my skills, projects, experience, and education.
+## 📫 Connect With Me
 
-**Tech:** React · JavaScript · Tailwind CSS · React Router · Lucide React
+<p>
+  <a href="mailto:pkhang353@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-🔗 [Live Demo](https://portfolio-pham-tuan-khang.vercel.app/)  
-💻 [Source Code](https://github.com/pkhang35/portfolioCV)
+  <a href="https://www.linkedin.com/in/pkhang35/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/pkhang35">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
