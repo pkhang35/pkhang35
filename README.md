@@ -54,10 +54,19 @@ I enjoy turning UI designs into clean and reusable interfaces.
 
 A quiz web application for practicing and testing knowledge of frontend technologies.
 
-**Tech:** React · JavaScript · Tailwind CSS · React Router · JSON Server
+**Tech:** React · JavaScript · Ant Design · React Router · JSON Server
 
-🔗 [Live Demo](YOUR_DEVQUIZ_DEMO_LINK)  
-💻 [Source Code](YOUR_DEVQUIZ_GITHUB_LINK)
+💻 [Source Code](https://github.com/pkhang35/QuizHub)
+
+---
+
+### 💼 IT Jobs
+
+A job recruitment website that allows users to search for IT jobs, explore companies, and view detailed job information.
+
+**Tech:** React · JavaScript · Ant Design · React Router · JSON Server
+
+💻 [Source Code](https://github.com/pkhang35/recruitment-web)
 
 ---
 
@@ -67,6 +76,6 @@ A responsive personal portfolio showcasing my skills, projects, experience, and 
 
 **Tech:** React · JavaScript · Tailwind CSS · React Router · Lucide React
 
-🔗 [Live Demo](YOUR_PORTFOLIO_LINK)  
-💻 [Source Code](YOUR_PORTFOLIO_GITHUB_LINK)
+🔗 [Live Demo](https://portfolio-pham-tuan-khang.vercel.app/)  
+💻 [Source Code](https://github.com/pkhang35/portfolioCV)
 
